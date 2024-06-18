@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/html" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/ELAndJSTL/testIndex.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/ELAndJSTL" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/JavaBean/javaBean.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/JavaBean" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/commonlyUsedCode/pagination.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/commonlyUsedCode" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/testIndex.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp" />
+      </map>
+    </option>
+  </component>
+</project>

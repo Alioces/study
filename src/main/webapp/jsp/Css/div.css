@@ -1,0 +1,40 @@
+:root{
+    --大小: 25%;
+    --间隔: 5px;
+}
+
+.box{
+    padding: var(--间隔);
+    border: 1px slategray inset;
+    float: left;
+    display: block;
+    background-color: antiquewhite;
+    text-align: center;
+    width: var(--大小);
+    height: var(--大小);
+}
+
+.clearFloat{
+    clear: left;
+}
+
+.textLeft{
+    text-align: left;
+}
+
+.center{
+    margin: auto;
+}
+
+.inputFrom{
+    padding: var(--间隔);
+    margin: var(--间隔);
+    background-color: azure;
+    border: 1px slategray inset;
+}
+
+.img{
+    max-width: 70%;
+    max-height: 70%;
+    object-fit: fill;
+}
